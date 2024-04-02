@@ -1,0 +1,3 @@
+C:/Users/laptop/Documents/Estructura de Datos/Practica2Oficial/cmake-build-debug/CMakeFiles/Practica2Oficial.dir
+C:/Users/laptop/Documents/Estructura de Datos/Practica2Oficial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laptop/Documents/Estructura de Datos/Practica2Oficial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

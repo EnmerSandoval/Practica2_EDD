@@ -1,0 +1,18 @@
+# ninja log v5
+10	745	7337667017062181	CMakeFiles/Practica2Oficial.dir/clases/Grupos.cpp.obj	c676c396f2664303
+5	1135	7337667020959457	CMakeFiles/Practica2Oficial.dir/main.cpp.obj	4bfd7407d36ecaa
+868	1017	7337613624697567	Practica2Oficial.exe	37ac795444255991
+15	84	7337561584471723	CMakeFiles/Practica2Oficial.dir/estructuras/Nodo.cpp.obj	b5cdb4522566c7ee
+17	102	7337500204635188	CMakeFiles/Practica2Oficial.dir/estructuras/NodoArbol.cpp.obj	d78067cc626b1d32
+10	530	7337537880142734	CMakeFiles/Practica2Oficial.dir/estructuras/TablaHash.cpp.obj	87af0a4bf1f4f30a
+10	526	7337600265611661	CMakeFiles/Practica2Oficial.dir/estructuras/ListaDoblemente.cpp.obj	3eaacb93f56ffcbb
+18	727	7337672008997864	CMakeFiles/Practica2Oficial.dir/estructuras/ArbolAVL.cpp.obj	27e3eeacb64e432
+1	201	7337711767138229	build.ninja	ea25361a59bf470b
+18	486	7337739895956061	CMakeFiles/Practica2Oficial.dir/clases/Contactos.cpp.obj	a9146202fca817c4
+4	528	7337740671151845	CMakeFiles/Practica2Oficial.dir/clases/Grupos.cpp.obj	c676c396f2664303
+5	484	7337741389596614	CMakeFiles/Practica2Oficial.dir/clases/Grupos.cpp.obj	c676c396f2664303
+21	912	7337848991037413	CMakeFiles/Practica2Oficial.dir/clases/Contactos.cpp.obj	a9146202fca817c4
+16	916	7337848991068614	CMakeFiles/Practica2Oficial.dir/estructuras/ListaDoblemente.cpp.obj	3eaacb93f56ffcbb
+10	670	7337849375720472	CMakeFiles/Practica2Oficial.dir/clases/Grupos.cpp.obj	c676c396f2664303
+5	765	7337850125049509	CMakeFiles/Practica2Oficial.dir/main.cpp.obj	4bfd7407d36ecaa
+766	1160	7337850128925403	Practica2Oficial.exe	509b80ab1c6b550e
