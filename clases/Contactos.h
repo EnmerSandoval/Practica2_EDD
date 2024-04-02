@@ -4,16 +4,15 @@
 
 #ifndef PRACTICA2OFICIAL_CONTACTOS_H
 #define PRACTICA2OFICIAL_CONTACTOS_H
+#include "../clases/Grupos.h"
 #include "iostream"
 #include "../estructuras/ArbolAVL.h"
-#include "Grupos.h"
 
 using namespace std;
 template <typename T>
 class Contactos {
 public:
     std::string nombre;
-    Grupos grupo;
     ArbolAVL<T> *arbolAVL;
 
     const string &getNombre() const {
@@ -24,13 +23,7 @@ public:
         Contactos::nombre = nombre;
     }
 
-    Contactos(T) {
-        arbolAVL = new ArbolAVL<T>();
-    }
-
     Contactos(){};
-
-
 
 };
 
